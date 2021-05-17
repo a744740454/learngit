@@ -1,0 +1,3 @@
+[submodule "hub_module"]
+	path = hub_module
+	url = git@github.com:a744740454/hub_module.git
